@@ -13,8 +13,6 @@ React App (UserPosts) nos permite visualizar un listado de usuarios y sus respec
 
 ### Tecnologia Usada
 
-Dillinger uses a number of open source projects to work properly:
-
 * [React - Typescript] - Libreria para el desarrollo web.
 * [HTML - CSS - JS (Styled Components)] - Manejo de CSS con StyledComponents
 
